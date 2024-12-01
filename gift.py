@@ -1,0 +1,28 @@
+class Gift:
+    GIFTS = [
+        "Un chocolate caliente virtual 🍫☕",
+        "Un mensaje motivador 📝",
+        "Un cupón de descuento ficticio 💳",
+        "Un sticker virtual 🖼️",
+        "Un pequeño chiste del día 😂",
+        "Una receta sencilla 🥘",
+        "Un consejo para cuidar tu salud 🏃‍♂️",
+        "Una adivinanza ❓",
+        "Un poema corto 📜",
+        "Un dato curioso del mundo 🌍",
+        "Un desafío físico 🏋️‍♂️",
+        "Un desafío mental 🧠",
+        "Una cita célebre 📖",
+        "Un emoji personalizado 😀",
+        "Un recordatorio de autocuidado 🛀",
+        "Un consejo de ahorro 💰",
+        "Un pequeño juego retro 🎮",
+        "Un animalito del día 🐼",
+        "Un pequeño reto ecológico 🌱",
+        "Una recomendación de libro 📚",
+        "Un objeto imaginario 🎁",
+        "Una predicción graciosa 🔮",
+        "Una canción del día 🎵",
+        "Un agradecimiento personalizado 🙌",
+    ]
+    
